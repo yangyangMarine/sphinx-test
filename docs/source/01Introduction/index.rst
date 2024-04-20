@@ -1,10 +1,9 @@
-Welcome to oceanstream!
+1. Introduction
 ============================================
 
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
 
-   01Introduction/index
-   02Functions/index
-   03Reports/index
+   01Objectives
+   02Platform
